@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">MSME KaRT</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="checkout">Checkout</string>
+
+
+    <string name="colour">Choose Colour</string>
+    <string name="spaceGray">Space Gray</string>
+    <string name="secondColour">Silver</string>
+    <string name="thirdColour">Gold</string>
+
+    <string name="sportsThirdColour">Midnight Black</string>
+
+    <string name="bloodOrange">Blood Orange</string>
+    <string name="black">Black</string>
+    <string name="skyBlue">Sky Blue</string>
+    <string name="white">White</string>
+    <string name="darkYellow">Dark Yellow</string>
+    <string name="salmon">Salmon Pink</string>
+
+    <string name="limeGreen">Lime Green</string>
+    <string name="rubyRed">Ruby Red</string>
+
+    <string name="blue">Dark Blue</string>
+    <string name="red">Dark Red</string>
+
+    <string name="phone_number_lbl">Enter Phone Number</string>
+    <string name="problem_lbl">Enter Problem Here Please</string>
+    <string name="main_title">"We Shop Contact Us Form"</string>
+    <string name="main_submit_complaint">"Submit Complaint"</string>
+    <string name="main_check_complaints">"Check Complaints"</string>
+    <string name="add_data_title">Fill Information Below Please</string>
+    <string name="add_data_field_username">Username</string>
+    <string name="add_data_field_email_address">E-mail Address</string>
+    <string name="add_data_field_phone_number">Phone Number</string>
+    <string name="add_data_field_problem">Problem</string>
+    <string name="add_data_button_save">Submit</string>
+    <string name="add_data_button_back">Back</string>
+
+    <string name="add_next_dialog_message">"Information saved.\nAdd another query?"</string>
+    <string name="add_next_dialog_confirm_yes">"Yes"</string>
+
+    <string name="check_data_title">"Username - E-mail - Telephone No - Problem"</string>
+    <string name="e_mail_address">E-mail Address</string>
+    <string name="password">Password</string>
+    <string name="error">Error</string>
+    <string name="error2">You must choose an appropriate option before adding to Kart</string>
+    <string name="ok">Ok</string>
+    <string name="login_below">Login </string>
+    <string name="register_below">Register </string>
+    <string name="login">Login</string>
+    <string name="AI">Watson</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="register">Register</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="adidas_jacket_women_s">Addidas Jacket Women\'s</string>
+    <string name="add_to_basket">Add to Kart</string>
+    <string name="color">Color</string>
+    <string name="size">Size</string>
+    <string name="quantity">Quantity</string>
+    <string name="adidas_predator_women_s_boots">Adiddas Predator Women\'s Boots</string>
+    <string name="todo">TODO</string>
+
+    <string name="productCost">Product Cost Rs: </string>
+    <string name="addingBasket">Adding To Kart..</string>
+    <string name="wait">Please Wait</string>
+    <string name="chooseOption">You must choose an option before adding to the basket</string>
+    <string name="creation_life_wallpaper">Creation Life Wallpaper</string>
+    <string name="product_cost">Product Cost £:</string>
+    <string name="long_sleeve_checkered_shirt">Long Sleeve Checkered Shirt</string>
+    <string name="long_sleeve_top_women_s">Long Sleeve Top Women\'s</string>
+    <string name="home">Home</string>
+    <string name="sports">Sports </string>
+    <string name="tech">Electronics</string>
+    <string name="clothing">Clothing</string>
+    <string name="diy">Daily use</string>
+    <string name="payment_below">Payment </string>
+    <string name="visa">VISA</string>
+    <string name="mastercard">MasterCard</string>
+
+
+    <string name="orderConfirmation">Order Confirmation</string>
+    <string name="orderConfirmed">Your order has been confirmed.</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+
+    <string name="menu_refresh">Refresh</string>
+</resources>

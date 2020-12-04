@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    android:background="@drawable/project2"
+
+    android:orientation="vertical"
+    android:padding="8dp"
+    tools:context=".ApplicationLayer.BasketActivity">
+
+    <Button
+        android:id="@+id/placeOrderBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="8dp"
+        android:background="@drawable/button_round"
+        android:fontFamily="sans-serif-medium"
+        android:text="Place Order"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/Backbutton"
+        android:layout_width="59dp"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/ic_menu_revert" />
+
+    <ListView
+        android:id="@+id/listViewBasket"
+        android:layout_width="360dp"
+        android:layout_height="581dp"
+        android:layout_above="@+id/placeOrderBtn"
+        android:cacheColorHint="@color/white" />
+
+    <TextView
+        android:layout_width="157dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="240dp"
+        android:layout_marginEnd="6dp"
+        android:text="Kart"
+        android:textAllCaps="true"
+        android:textColor="@color/design_default_color_on_secondary"
+        android:textSize="36sp" />
+
+</RelativeLayout>

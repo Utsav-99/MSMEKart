@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38721896122",
+    "firebase_url": "https://msmekart.firebaseio.com",
+    "project_id": "msmekart",
+    "storage_bucket": "msmekart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38721896122:android:144c4f5832430195884c83",
+        "android_client_info": {
+          "package_name": "com.example.Msme_kart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38721896122-vu1it8avjfics31ib51p41b3avedkaol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_AQQswTjWHdH7n_tBlCFmSOW7PwoGp9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38721896122-vu1it8avjfics31ib51p41b3avedkaol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">38721896122-vu1it8avjfics31ib51p41b3avedkaol.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://msmekart.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">38721896122</string>
+    <string name="google_api_key" translatable="false">AIzaSyA_AQQswTjWHdH7n_tBlCFmSOW7PwoGp9E</string>
+    <string name="google_app_id" translatable="false">1:38721896122:android:144c4f5832430195884c83</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA_AQQswTjWHdH7n_tBlCFmSOW7PwoGp9E</string>
+    <string name="google_storage_bucket" translatable="false">msmekart.appspot.com</string>
+    <string name="project_id" translatable="false">msmekart</string>
+</resources>
